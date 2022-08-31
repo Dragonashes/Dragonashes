@@ -8,17 +8,18 @@
 
 - React
   - react native
+
+csharp
+dotnet
+  Blazor
+  MVC
+  PWA
+  MAUI native
 	
 PHP Laravel
-	csharp
-	dotnet
-		Blazor
-		MVC
-		PWA
-		MAUI native
 
 Tools:
-	devcontainers
-	Docker Containers
-	Git  
-  Engelsk/Danish
+	- devcontainers
+	- Docker Containers
+	- Git  
+	- Engelsk/Danish
