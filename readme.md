@@ -19,7 +19,7 @@ dotnet
 PHP Laravel
 
 Tools:
-	- devcontainers
-	- Docker Containers
-	- Git  
-	- Engelsk/Danish
+ - devcontainers
+ - Docker Containers
+ - Git  
+ - Engelsk/Danish
