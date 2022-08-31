@@ -1,7 +1,10 @@
 # Competences
 
-- HTML/CSS/SCSS
-- JavaScript/TypeScript
+- HTML
+ - CSS
+ - SCSS
+- JavaScript
+ - TypeScript
  - Jamstack
 - Dotnet
 - Csharp
