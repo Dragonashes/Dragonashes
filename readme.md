@@ -6,10 +6,8 @@ JavaScript/TypeScript
 Dotnet
 Csharp
 
-<div style=background: red;>
 React
   react native
-</div>
 	
 PHP Laravel
 	csharp
