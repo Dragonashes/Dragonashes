@@ -1,11 +1,11 @@
 # Competences
 
 - HTML
- - CSS
- - SCSS
+  - CSS
+  - SCSS
 - JavaScript
- - TypeScript
- - Jamstack
+  - TypeScript
+  - Jamstack
 - Dotnet
 - Csharp
 
@@ -22,7 +22,7 @@
 PHP Laravel
 
 Tools:
- - devcontainers
- - Docker Containers
- - Git  
- - English/Danish
+  - devcontainers
+  - Docker Containers
+  - Git  
+  - English/Danish
