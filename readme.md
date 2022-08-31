@@ -1,13 +1,13 @@
 # Competences
 
-HTML/CSS/SCSS
-JavaScript/TypeScript
-  Jamstack
-Dotnet
-Csharp
+- HTML/CSS/SCSS
+- JavaScript/TypeScript
+ - Jamstack
+- Dotnet
+- Csharp
 
-React
-  react native
+- React
+  - react native
 	
 PHP Laravel
 	csharp
