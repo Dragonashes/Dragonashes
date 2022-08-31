@@ -9,12 +9,12 @@
 - React
   - react native
 
-csharp
-dotnet
-  Blazor
-  MVC
-  PWA
-  MAUI native
+- csharp
+- dotnet
+  - Blazor
+  - MVC
+  - PWA
+  - MAUI native
 	
 PHP Laravel
 
