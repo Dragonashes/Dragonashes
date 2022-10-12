@@ -6,8 +6,6 @@
 - JavaScript
   - TypeScript
   - Jamstack
-- Dotnet
-- Csharp
 
 - React
   - react native
