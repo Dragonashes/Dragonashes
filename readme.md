@@ -23,4 +23,3 @@ Tools:
   - devcontainers
   - Docker Containers
   - Git  
-  - English/Danish
