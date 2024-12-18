@@ -19,9 +19,9 @@
 	
 PHP Laravel
 
-- networking
-  - rest api
-  - rpc api
+networking
+  - HTTP
+  - RPC
 
 Tools:
   - devcontainers
