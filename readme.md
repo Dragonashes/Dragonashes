@@ -1,4 +1,4 @@
-# Competences
+# Competencies
 
 - HTML
   - CSS
@@ -19,7 +19,14 @@
 	
 PHP Laravel
 
+- networking
+  - rest api
+  - rpc api
+
 Tools:
   - devcontainers
   - Docker Containers
   - Git  
+  - Git LFS
+  - GitHub actions
+    - CI/CD
